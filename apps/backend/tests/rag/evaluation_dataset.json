@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "What is Newton's second law of motion?",
+    "expected_document": "Physics_Lecture_01.pdf",
+    "expected_page": 3,
+    "expected_topic": "Laws of Motion"
+  },
+  {
+    "id": 2,
+    "question": "How is acceleration defined in classical mechanics?",
+    "expected_document": "Physics_Lecture_01.pdf",
+    "expected_page": 4,
+    "expected_topic": "Kinematics"
+  },
+  {
+    "id": 3,
+    "question": "Explain the concept of momentum conservation.",
+    "expected_document": "Physics_Lecture_02.pdf",
+    "expected_page": 1,
+    "expected_topic": "Momentum"
+  },
+  {
+    "id": 4,
+    "question": "What is the formula for kinetic energy?",
+    "expected_document": "Physics_Lecture_02.pdf",
+    "expected_page": 5,
+    "expected_topic": "Work & Energy"
+  },
+  {
+    "id": 5,
+    "question": "Define work done by a constant force.",
+    "expected_document": "Physics_Lecture_02.pdf",
+    "expected_page": 7,
+    "expected_topic": "Work & Energy"
+  },
+  {
+    "id": 6,
+    "question": "What is Coulomb's Law of electrostatics?",
+    "expected_document": "Physics_Lecture_03.pdf",
+    "expected_page": 2,
+    "expected_topic": "Electrostatics"
+  },
+  {
+    "id": 7,
+    "question": "Explain Gauss's Law in electricity.",
+    "expected_document": "Physics_Lecture_03.pdf",
+    "expected_page": 6,
+    "expected_topic": "Electrostatics"
+  },
+  {
+    "id": 8,
+    "question": "What is electric potential difference?",
+    "expected_document": "Physics_Lecture_03.pdf",
+    "expected_page": 9,
+    "expected_topic": "Electric Potential"
+  },
+  {
+    "id": 9,
+    "question": "State Ohm's Law and its mathematical form.",
+    "expected_document": "Physics_Lecture_04.pdf",
+    "expected_page": 1,
+    "expected_topic": "Current Electricity"
+  },
+  {
+    "id": 10,
+    "question": "What is Kirchhoff's Current Law?",
+    "expected_document": "Physics_Lecture_04.pdf",
+    "expected_page": 4,
+    "expected_topic": "Circuits"
+  },
+  {
+    "id": 11,
+    "question": "Explain Kirchhoff's Voltage Law.",
+    "expected_document": "Physics_Lecture_04.pdf",
+    "expected_page": 5,
+    "expected_topic": "Circuits"
+  },
+  {
+    "id": 12,
+    "question": "What is Faraday's Law of electromagnetic induction?",
+    "expected_document": "Physics_Lecture_05.pdf",
+    "expected_page": 2,
+    "expected_topic": "Electromagnetism"
+  },
+  {
+    "id": 13,
+    "question": "Define Lenz's Law and energy conservation.",
+    "expected_document": "Physics_Lecture_05.pdf",
+    "expected_page": 4,
+    "expected_topic": "Electromagnetism"
+  },
+  {
+    "id": 14,
+    "question": "What is the wave equation for light?",
+    "expected_document": "Physics_Lecture_06.pdf",
+    "expected_page": 1,
+    "expected_topic": "Optics"
+  },
+  {
+    "id": 15,
+    "question": "Explain Snell's Law of refraction.",
+    "expected_document": "Physics_Lecture_06.pdf",
+    "expected_page": 3,
+    "expected_topic": "Optics"
+  },
+  {
+    "id": 16,
+    "question": "Define total internal reflection and critical angle.",
+    "expected_document": "Physics_Lecture_06.pdf",
+    "expected_page": 6,
+    "expected_topic": "Optics"
+  },
+  {
+    "id": 17,
+    "question": "What is the photoelectric effect?",
+    "expected_document": "Physics_Lecture_07.pdf",
+    "expected_page": 2,
+    "expected_topic": "Quantum Physics"
+  },
+  {
+    "id": 18,
+    "question": "State Einstein's photoelectric equation.",
+    "expected_document": "Physics_Lecture_07.pdf",
+    "expected_page": 4,
+    "expected_topic": "Quantum Physics"
+  },
+  {
+    "id": 19,
+    "question": "What is de Broglie wavelength?",
+    "expected_document": "Physics_Lecture_07.pdf",
+    "expected_page": 7,
+    "expected_topic": "Quantum Physics"
+  },
+  {
+    "id": 20,
+    "question": "Explain Bohr's model of the hydrogen atom.",
+    "expected_document": "Physics_Lecture_08.pdf",
+    "expected_page": 3,
+    "expected_topic": "Atomic Structure"
+  }
+]

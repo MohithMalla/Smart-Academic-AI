@@ -1,0 +1,2 @@
+Newton's second law states that Force equals mass times acceleration (F = m * a).
+Page 2 content describing kinetic energy equation KE = 0.5 * m * v^2.
